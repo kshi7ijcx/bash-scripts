@@ -5,3 +5,4 @@ expr 10 \* 5
 num1=324
 num2=442
 expr $num1 + $num2
+echo $(( $num1 + $num2 ))
